@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a super secret AI project<br>👯 I’m looking to collaborate on any JS repository<br>🤝 I’m looking for help with spreading the word on my easy to use WordPress boilerplates<br>🌱 I’m currently learning multi-agent AI workflows<br>💬 Ask me about anything JS<br>⚡ Fun fact: I also do WordPress
+🔭 I’m currently working across the full JavaScript stack with React, Vue, and NestJS<br>👯 I’m looking to collaborate on projects involving advanced UI animations or custom CMS development<br>🤝 I’m available to support WordPress projects, including plugin/theme architecture and site optimization<br>🌱 I’m exploring cross-platform desktop and mobile development with Electron and React Native<br>💬 Ask me about frontend frameworks, GraphQL, or scaling full-stack JS apps<br>⚡ Fun fact: I started in design — so I obsess over pixel-perfect UI and smooth motion
 
 
 ## 🌐 Socials:
