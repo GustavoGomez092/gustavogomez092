@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working across the full JavaScript stack with React, Vue, and NestJS<br>👯 I’m looking to collaborate on projects involving advanced UI animations or custom CMS development<br>🤝 I’m available to support WordPress projects, including plugin/theme architecture and site optimization<br>🌱 I’m exploring cross-platform desktop and mobile development with Electron and React Native<br>💬 Ask me about frontend frameworks, GraphQL, or scaling full-stack JS apps<br>⚡ Fun fact: I started in design — so I obsess over pixel-perfect UI and smooth motion
 
+## Let’s push pixels and boundaries - [portfolio](https://gustavogomez092.github.io/portfolio/)!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ni.linkedin.com/in/gustavo-gomez-selva-7000621b7) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/gustavogomez092) 
